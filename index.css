@@ -68,8 +68,12 @@ h1 {
 }
 
 @media (max-width: 800px) {
+
   .screen,
   .buttons {
-    width: 90%;
+    width: 60%;
+    overflow: hidden;
   }
+
+  
 }
